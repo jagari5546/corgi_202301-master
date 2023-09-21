@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5032a5b102cc0ae41957c6216ea8c505, type: 3}
+  m_Name: Dinero
+  m_EditorClassIdentifier: 
+  PickFeedbacks: {fileID: 0}
+  DisableObjectOnPick: 1
+  DisableRendererOnPick: 0
+  DisableColliderOnPick: 0
+  DisableTargetObjectOnPick: 0
+  TargetObjectToDisable: {fileID: 0}
+  TargetObjectDisableDelay: 1
+  _collider: {fileID: 0}
+  _pickingCollider: {fileID: 0}
+  _renderer: {fileID: 0}
+  _character: {fileID: 0}
+  _pickable: 0
+  _itemPicker: {fileID: 0}
+  _collidingObject: {fileID: 0}
+  _autoRespawn: {fileID: 0}
+  PointsToAdd: 10

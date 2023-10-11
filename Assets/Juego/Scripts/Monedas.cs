@@ -2,16 +2,29 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using MoreMountains.CorgiEngine;
+using MoreMountains.Tools;
 
-public class Monedas : PickableItem
+
+public class Monedas : MonoBehaviour, MMEventListener<PickableItemEvent>
 {
-    [SerializeField] protected ControlMonedas controlMonedas;
-
-
-    protected override void Pick(GameObject picker)
+    public int contador_monedas;
+    void OnEnable()
     {
-
-        controlMonedas.MonedasRecogidas++;
+        this.MMEventStartListening<PickableItemEvent>();
+    }
+    void OnDisable()
+    {
+        this.MMEventStopListening<PickableItemEvent>();
+    }
+    public virtual void OnMMEvent (PickableItemEvent item)
+    {
+        contador_monedas++;
+        if (contador_monedas == 3)
+        {
+            Debug.Log(item);
+            GameManager.Instance.GainLives(1);
+            contador_monedas = 0;
+        }
 
     }
 

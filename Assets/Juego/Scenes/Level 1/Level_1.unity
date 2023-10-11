@@ -274,12 +274,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1260202}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &8392700 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 1117271153}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8648395 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5517148888637653436, guid: b1e0882962a7c8b40bba67d90f2c0939,
@@ -368,7 +362,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &19886098
 PrefabInstance:
@@ -578,12 +572,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1e0882962a7c8b40bba67d90f2c0939, type: 3}
---- !u!1 &26180419 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 456301305}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &26891183
 GameObject:
   m_ObjectHideFlags: 0
@@ -1134,23 +1122,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fddbfb125e75b2446b4341faecd61ebe, type: 3}
---- !u!1 &88124008 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 1498925507}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &94068555 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 467142, guid: b2a64cfda84fa5f408a3b9f1d47e1176,
     type: 3}
   m_PrefabInstance: {fileID: 1307863125}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &95805754 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 417009172}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &97985542
 PrefabInstance:
@@ -1770,12 +1746,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 123567690}
   m_CullTransparentMesh: 1
---- !u!1 &124584855 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1585447349}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &129636870 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 408230, guid: ed2d115ca0f2bee48b7dc0fe8265d56e,
@@ -1897,18 +1867,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1e0882962a7c8b40bba67d90f2c0939, type: 3}
---- !u!1 &147338775 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 19886098}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &150686254 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 741116879}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &154058431
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2867,12 +2825,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1e0882962a7c8b40bba67d90f2c0939, type: 3}
---- !u!1 &201094074 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1539874871}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &201820380
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2987,12 +2939,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5517148888637653436, guid: b1e0882962a7c8b40bba67d90f2c0939,
     type: 3}
   m_PrefabInstance: {fileID: 201820380}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &206516889 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 449057225}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &210812669
 PrefabInstance:
@@ -3294,32 +3240,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28c132e1be9dbf649afae0e280eb37f1, type: 3}
---- !u!1 &215970268 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1717638064}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &215970273
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 215970268}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1 &217508716
 GameObject:
   m_ObjectHideFlags: 0
@@ -3534,7 +3454,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &222384817
 MonoBehaviour:
@@ -3736,12 +3656,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80fddac16a8f17648bb359d171caf2b1, type: 3}
---- !u!1 &237093212 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 621534803}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &237527146
 GameObject:
   m_ObjectHideFlags: 0
@@ -4095,21 +4009,20 @@ PrefabInstance:
     - target: {fileID: 212931672358769416, guid: 673bb9380c234644fbcb74eb07dd76fb,
         type: 3}
       propertyPath: m_SortingLayer
-      value: 3
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 212931672358769416, guid: 673bb9380c234644fbcb74eb07dd76fb,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 212931672358769416, guid: 673bb9380c234644fbcb74eb07dd76fb,
         type: 3}
       propertyPath: m_SortingLayerID
-      value: 600026165
+      value: -1620175883
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 673bb9380c234644fbcb74eb07dd76fb, type: 3}
---- !u!1 &249209388 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 648882966}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &250137911 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7164636377660918513, guid: 28c132e1be9dbf649afae0e280eb37f1,
@@ -4122,26 +4035,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1498925507}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &251127595
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 88124008}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &254294178
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4459,30 +4352,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 467142, guid: b2a64cfda84fa5f408a3b9f1d47e1176,
     type: 3}
   m_PrefabInstance: {fileID: 1827570846}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &311914663 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 143146568}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &316671778 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 412287072}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &328734907 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 391912826}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &342936707 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 703983088}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &356061878
 PrefabInstance:
@@ -5008,12 +4877,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1e0882962a7c8b40bba67d90f2c0939, type: 3}
---- !u!1 &391892059 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1054563850}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &391912826
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5259,26 +5122,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 648882966}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &404981388
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 249209388}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &409683456
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5961,12 +5804,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1e0882962a7c8b40bba67d90f2c0939, type: 3}
---- !u!1 &436464482 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 20963413}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &437061378
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6461,26 +6298,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 621534803}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &461017463
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 237093212}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &468227941 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 736768012749382458, guid: f66084fa6b39dcd449a40d1930f83d16,
@@ -6701,12 +6518,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80fddac16a8f17648bb359d171caf2b1, type: 3}
---- !u!1 &491867295 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 42096679}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &499387722
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6850,7 +6661,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &508182578 stripped
 Transform:
@@ -7043,38 +6854,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 465746, guid: 6ffb94d6d72f517449d364c8ba74382d,
     type: 3}
   m_PrefabInstance: {fileID: 517316809}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &518605338 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 452751060}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &518605343
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 518605338}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &519745607 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1080820321}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &522504653
 PrefabInstance:
@@ -7415,7 +7194,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &598362399
 PrefabInstance:
@@ -7704,52 +7483,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 143146568}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &621619835
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 311914663}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &629953275 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 736768012749382458, guid: f66084fa6b39dcd449a40d1930f83d16,
     type: 3}
   m_PrefabInstance: {fileID: 449057225}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &629953280
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 206516889}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &635091804 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 471364, guid: 57dd69c9da9acc243a84c0044cac354e,
@@ -8491,12 +8230,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &669165410 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 755195888}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &674024814
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8720,32 +8453,6 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!1 &693960520 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1780114199}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &693960525
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 693960520}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &697749581 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 469248, guid: 19604a2eca93ef149b19789d4d065189,
@@ -9038,7 +8745,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &732106357 stripped
 Transform:
@@ -9352,26 +9059,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 741116879}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &757673256
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 150686254}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &766253919
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9476,75 +9163,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1e0882962a7c8b40bba67d90f2c0939, type: 3}
---- !u!1 &771463971 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 510330818}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &774521266 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5517148888637653436, guid: b1e0882962a7c8b40bba67d90f2c0939,
     type: 3}
   m_PrefabInstance: {fileID: 389221971}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &775670905 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 254294178}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &775670910
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 775670905}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &777406869 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 389221971}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &777406874
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 777406869}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &784652722 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 210812669}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &789045051 stripped
 Transform:
@@ -9552,32 +9175,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 382387457}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &793071477 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 374740758}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &793071482
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 793071477}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &794579269
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9738,52 +9335,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 19886098}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &819774251
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 147338775}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &836873778 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1015610363}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &836873783
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 836873778}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &851006358
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10004,26 +9555,39 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 42096679}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &862806196
-MonoBehaviour:
+--- !u!1 &867474485
+GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 491867295}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 867474486}
+  m_Layer: 0
+  m_Name: Terreno
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &867474486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 867474485}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -24.006176, y: 3.6861494, z: 49.936527}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1949487138}
+  - {fileID: 1127870385}
+  m_Father: {fileID: 0}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &868615789 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
@@ -10333,12 +9897,17 @@ PrefabInstance:
     - target: {fileID: 212931672358769416, guid: 673bb9380c234644fbcb74eb07dd76fb,
         type: 3}
       propertyPath: m_SortingLayer
-      value: 3
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 212931672358769416, guid: 673bb9380c234644fbcb74eb07dd76fb,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 212931672358769416, guid: 673bb9380c234644fbcb74eb07dd76fb,
         type: 3}
       propertyPath: m_SortingLayerID
-      value: 600026165
+      value: -1620175883
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 673bb9380c234644fbcb74eb07dd76fb, type: 3}
@@ -10353,12 +9922,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8040196612442320774, guid: 67e9e6648638ca94eaaa9e41373f42f2,
     type: 3}
   m_PrefabInstance: {fileID: 8040196612217246658}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &918375423 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 108747193}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &919910881
 GameObject:
@@ -10643,18 +10206,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1778545234}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &935807282 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 157302185}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &940391612 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1846661473}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &940882427
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10828,12 +10379,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28c132e1be9dbf649afae0e280eb37f1, type: 3}
---- !u!1 &957962261 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1668773538}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &966346744
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11161,32 +10706,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 974730892}
   m_CullTransparentMesh: 1
---- !u!1 &979899447 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 199063811}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &979899452
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 979899447}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &982197193
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11296,32 +10815,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5517148888637653436, guid: b1e0882962a7c8b40bba67d90f2c0939,
     type: 3}
   m_PrefabInstance: {fileID: 1539874871}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &983525883
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 201094074}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &986974739 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 1013601257}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &988886877
 GameObject:
@@ -11474,26 +10967,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1013601257}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &996363344
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986974739}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &999815554 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5517148888637653436, guid: b1e0882962a7c8b40bba67d90f2c0939,
@@ -12000,12 +11473,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1e0882962a7c8b40bba67d90f2c0939, type: 3}
---- !u!1 &1019928693 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 1424631773}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1036433510
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12532,26 +11999,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1080820321}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1080820327
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 519745607}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1 &1089419255
 GameObject:
   m_ObjectHideFlags: 0
@@ -12863,12 +12310,17 @@ PrefabInstance:
     - target: {fileID: 212931672358769416, guid: 673bb9380c234644fbcb74eb07dd76fb,
         type: 3}
       propertyPath: m_SortingLayer
-      value: 3
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 212931672358769416, guid: 673bb9380c234644fbcb74eb07dd76fb,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 212931672358769416, guid: 673bb9380c234644fbcb74eb07dd76fb,
         type: 3}
       propertyPath: m_SortingLayerID
-      value: 600026165
+      value: -1620175883
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 673bb9380c234644fbcb74eb07dd76fb, type: 3}
@@ -13216,14 +12668,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1127870383}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 24.006176, y: -3.6861494, z: -49.936527}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1949487138}
-  m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_Children: []
+  m_Father: {fileID: 867474486}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1129281861
 GameObject:
@@ -13638,7 +13089,7 @@ PrefabInstance:
     - target: {fileID: 7308191233977689811, guid: 2751cedfb8bea49488922c166f76a420,
         type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 7308191233977689811, guid: 2751cedfb8bea49488922c166f76a420,
         type: 3}
@@ -13715,26 +13166,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 412287072}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1133577127
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 316671778}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1 &1139227970
 GameObject:
   m_ObjectHideFlags: 0
@@ -14177,26 +13608,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1846661473}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1150939199
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 940391612}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1 &1153404225
 GameObject:
   m_ObjectHideFlags: 0
@@ -14277,12 +13688,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 40, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &1169388261 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1811155480}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1176010102
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14352,32 +13757,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28c132e1be9dbf649afae0e280eb37f1, type: 3}
---- !u!1 &1176518393 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 940882427}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1176518398
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1176518393}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1181858760
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14552,12 +13931,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18bb1f001bf6cc44bad12ddfad6d7672, type: 3}
---- !u!1 &1200633345 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 1600029952}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1202783396
 GameObject:
   m_ObjectHideFlags: 0
@@ -14916,12 +14289,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28c132e1be9dbf649afae0e280eb37f1, type: 3}
---- !u!1 &1219505176 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 174388288}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1226984623 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 499328, guid: e112e8af7e63bfe43a3afafcfaea9dce,
@@ -14993,32 +14360,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57dd69c9da9acc243a84c0044cac354e, type: 3}
---- !u!1 &1238628197 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 197362961}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1238628202
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1238628197}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1241797218
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15843,26 +15184,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 174388288}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1299690860
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1219505176}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1299782120
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15973,26 +15294,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1600029952}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1307163862
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1200633345}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1307863125
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16216,32 +15517,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28c132e1be9dbf649afae0e280eb37f1, type: 3}
---- !u!1 &1348545180 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 982197193}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1348545185
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1348545180}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &1357211570 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 736768012749382458, guid: f66084fa6b39dcd449a40d1930f83d16,
@@ -16333,38 +15608,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 408230, guid: ed2d115ca0f2bee48b7dc0fe8265d56e,
     type: 3}
   m_PrefabInstance: {fileID: 1057817902}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1366727796 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 968576886}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1366727801
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1366727796}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &1369419881 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 234252365}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1381126822 stripped
 Transform:
@@ -16598,7 +15841,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1384751392}
-  - component: {fileID: 1384751393}
   m_Layer: 0
   m_Name: Coins
   m_TagString: Untagged
@@ -16695,72 +15937,6 @@ Transform:
   m_Father: {fileID: 1202783397}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1384751393
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1384751391}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 56b525b45ffac95459034b8b30042769, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  monedas: 0
-  Activable: {fileID: 0}
---- !u!1 &1397618910 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1700293275}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1397618915
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1397618910}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &1400101955 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 1701890559}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1400101960
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1400101955}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1401446137
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17215,12 +16391,17 @@ PrefabInstance:
     - target: {fileID: 212931672358769416, guid: 673bb9380c234644fbcb74eb07dd76fb,
         type: 3}
       propertyPath: m_SortingLayer
-      value: 3
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 212931672358769416, guid: 673bb9380c234644fbcb74eb07dd76fb,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 212931672358769416, guid: 673bb9380c234644fbcb74eb07dd76fb,
         type: 3}
       propertyPath: m_SortingLayerID
-      value: 600026165
+      value: -1620175883
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 673bb9380c234644fbcb74eb07dd76fb, type: 3}
@@ -17430,26 +16611,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 234252365}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1463358969
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1369419881}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1473770106
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17519,32 +16680,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28c132e1be9dbf649afae0e280eb37f1, type: 3}
---- !u!1 &1475376435 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 201820380}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1475376440
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1475376435}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1478198261
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18009,58 +17144,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 755195888}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1534483684
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 669165410}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &1534492975 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 469248, guid: 19604a2eca93ef149b19789d4d065189,
     type: 3}
   m_PrefabInstance: {fileID: 43967997}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1538602057 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 2015998838}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1538602062
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1538602057}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1539874871
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18269,12 +17358,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f66084fa6b39dcd449a40d1930f83d16, type: 3}
---- !u!1 &1554129891 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 1847045887}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1557612678
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18793,32 +17876,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1574130490}
   m_CullTransparentMesh: 0
---- !u!1 &1582409996 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1181858760}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1582410001
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1582409996}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1585447349
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18928,32 +17985,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1e0882962a7c8b40bba67d90f2c0939, type: 3}
---- !u!1 &1590732892 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 384673171}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1590732897
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1590732892}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1 &1591282602
 GameObject:
   m_ObjectHideFlags: 0
@@ -19220,7 +18251,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1625092746 stripped
 Transform:
@@ -19228,26 +18259,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 108747193}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1625092751
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 918375423}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &1626269719 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5517148888637653436, guid: b1e0882962a7c8b40bba67d90f2c0939,
@@ -19504,26 +18515,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1585447349}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1656262935
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 124584855}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1656505152
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19703,58 +18694,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1e0882962a7c8b40bba67d90f2c0939, type: 3}
---- !u!1 &1671293071 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 242248558}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1671293076
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1671293071}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &1674701116 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 1142367885}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1674701121
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1674701116}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1674947919
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19768,15 +18707,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: ace2d4bf56f98df4196ff81845a465d7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -51.9
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: ace2d4bf56f98df4196ff81845a465d7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -30.29
+      value: 4.9
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: ace2d4bf56f98df4196ff81845a465d7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -28.6
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: ace2d4bf56f98df4196ff81845a465d7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -19902,26 +18841,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 210812669}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1687342109
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 784652722}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &1688073065 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5517148888637653436, guid: b1e0882962a7c8b40bba67d90f2c0939,
@@ -20195,32 +19114,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1189395419}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1712698680 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 485644731}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1712698685
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1712698680}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1717638064
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20325,32 +19218,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1e0882962a7c8b40bba67d90f2c0939, type: 3}
---- !u!1 &1723217166 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 766253919}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1723217171
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1723217166}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1 &1731009200
 GameObject:
   m_ObjectHideFlags: 0
@@ -20449,52 +19316,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1424631773}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1737350077
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1019928693}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &1737619219 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5517148888637653436, guid: b1e0882962a7c8b40bba67d90f2c0939,
     type: 3}
   m_PrefabInstance: {fileID: 391912826}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1737619224
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 328734907}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1 &1744637812
 GameObject:
   m_ObjectHideFlags: 0
@@ -20572,43 +19399,11 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!1 &1745921384 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 883270303}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1749699115 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5517148888637653436, guid: b1e0882962a7c8b40bba67d90f2c0939,
     type: 3}
   m_PrefabInstance: {fileID: 1054563850}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1749699120
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 391892059}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &1750256843 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 245827609}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1750366546
 PrefabInstance:
@@ -20681,32 +19476,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1750366546}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1753861621 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 1548741901}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1753861626
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1753861621}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1754198925
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20811,32 +19580,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1e0882962a7c8b40bba67d90f2c0939, type: 3}
---- !u!1 &1755499161 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 659380625}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1755499166
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1755499161}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &1760214244 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4327056396034110, guid: 43ac4e86a0312d14ca52ef3b45b35b8a,
@@ -21607,38 +20350,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 437061378}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1782215067 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 522504653}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1790054935 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
     type: 3}
   m_PrefabInstance: {fileID: 1117271153}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1790054940
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8392700}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1 &1795995464
 GameObject:
   m_ObjectHideFlags: 0
@@ -21831,26 +20548,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1811155480}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1811155486
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1169388261}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1 &1813071156
 GameObject:
   m_ObjectHideFlags: 0
@@ -22237,32 +20934,6 @@ RectTransform:
   m_AnchoredPosition: {x: -4.09, y: -2.35}
   m_SizeDelta: {x: 112, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &1817621696 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 471965284}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1817621701
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1817621696}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &1817743153 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7164636377660918513, guid: 28c132e1be9dbf649afae0e280eb37f1,
@@ -22845,104 +21516,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 703983088}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1871330685
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 342936707}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &1875144950 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 598362399}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1875144955
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1875144950}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &1885275584 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5517148888637653436, guid: b1e0882962a7c8b40bba67d90f2c0939,
     type: 3}
   m_PrefabInstance: {fileID: 883270303}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1885275589
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1745921384}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &1887928760 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 455783346}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1887928765
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1887928760}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1896577157
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23089,26 +21668,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 522504653}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1905970022
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1782215067}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &1919417633 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 445620, guid: fa993c684e8db874e8262a27a412cb3f,
@@ -23133,26 +21692,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1668773538}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1923406704
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 957962261}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1 &1924068308
 GameObject:
   m_ObjectHideFlags: 0
@@ -23239,32 +21778,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 606497892}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1943575735 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1273712607}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1943575740
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1943575735}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &1943887643
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23404,6 +21917,7 @@ GameObject:
   - component: {fileID: 1949487138}
   - component: {fileID: 1949487140}
   - component: {fileID: 1949487139}
+  - component: {fileID: 1949487141}
   m_Layer: 5
   m_Name: Tilemap
   m_TagString: Untagged
@@ -23419,11 +21933,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1949487137}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 24.006176, y: -3.6861494, z: -49.936527}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1127870385}
+  m_Father: {fileID: 867474486}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!483693784 &1949487139
@@ -23464,9 +21978,9 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1053558941
-  m_SortingLayer: 6
-  m_SortingOrder: 0
+  m_SortingLayerID: 600026165
+  m_SortingLayer: 3
+  m_SortingOrder: 3
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0.007936537, y: 0.007936537, z: 0}
   m_MaxChunkCount: 16
@@ -30354,6 +28868,18 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!156049354 &1949487141
+Grid:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949487137}
+  m_Enabled: 1
+  m_CellSize: {x: 1, y: 1, z: 1}
+  m_CellGap: {x: 0, y: 0, z: 0}
+  m_CellLayout: 0
+  m_CellSwizzle: 0
 --- !u!1 &1962338377
 GameObject:
   m_ObjectHideFlags: 0
@@ -30544,162 +29070,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 510330818}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1970889861
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 771463971}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &1982440907 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1965091710}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1982440912
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1982440907}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &1987297194 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1633734154}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1987297199
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1987297194}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &1987961039 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1252676434133807316, guid: 80fddac16a8f17648bb359d171caf2b1,
-    type: 3}
-  m_PrefabInstance: {fileID: 855432427}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1987961044
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1987961039}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &1994102782 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 1299782120}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1994102787
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1994102782}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &1994360003 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 474250, guid: fddbfb125e75b2446b4341faecd61ebe,
     type: 3}
   m_PrefabInstance: {fileID: 81570633}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1995183580 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 110394142}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1995183585
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1995183580}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1 &1998471939
 GameObject:
   m_ObjectHideFlags: 0
@@ -31471,52 +29847,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 245827609}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2042422872
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1750256843}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &2048288829 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 851006358}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2048288834
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2048288829}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &2057730155
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31598,26 +29928,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 20963413}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2065390578
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 436464482}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &2073860403
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31770,7 +30080,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2075814021
 MonoBehaviour:
@@ -31800,26 +30110,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1847045887}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2080893091
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1554129891}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &2083327832
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31924,110 +30214,18 @@ Transform:
   m_Father: {fileID: 103611969}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &2099023002 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1186307576755454712, guid: f66084fa6b39dcd449a40d1930f83d16,
-    type: 3}
-  m_PrefabInstance: {fileID: 1557612678}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2099023007
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2099023002}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &2109562237 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5517148888637653436, guid: b1e0882962a7c8b40bba67d90f2c0939,
     type: 3}
   m_PrefabInstance: {fileID: 417009172}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2109562242
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 95805754}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &2121462175 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1754198925}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2121462180
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2121462175}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &2127283261 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
     type: 3}
   m_PrefabInstance: {fileID: 157302185}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2127283266
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 935807282}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!1001 &2138650592
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32097,84 +30295,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1264183754}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &2144804402 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1264183754}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2144804407
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2144804402}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
---- !u!1 &2146212861 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
-    type: 3}
-  m_PrefabInstance: {fileID: 1778545234}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2146212866
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2146212861}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &2146677659 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5517148888637653436, guid: b1e0882962a7c8b40bba67d90f2c0939,
     type: 3}
   m_PrefabInstance: {fileID: 456301305}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2146677664
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 26180419}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PickFeedbacks: {fileID: 0}
-  DisableObjectOnPick: 1
-  DisableRendererOnPick: 0
-  DisableColliderOnPick: 0
-  DisableTargetObjectOnPick: 0
-  TargetObjectToDisable: {fileID: 0}
-  TargetObjectDisableDelay: 1
-  controlMonedas: {fileID: 0}
 --- !u!4 &4947676994142748 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4228787960045835373, guid: 599b24f232848f743ae5d9b68c06ee79,

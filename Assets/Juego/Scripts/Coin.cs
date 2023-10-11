@@ -16,6 +16,7 @@ namespace MoreMountains.CorgiEngine
 	public class Coin : PickableItem
 	{
 		[Header("Coin")]
+		private int contadormonedas;
 
 		/// The amount of points to add when collected
 		[Tooltip("The amount of points to add when collected")]
@@ -29,7 +30,16 @@ namespace MoreMountains.CorgiEngine
 		{
 			// we send a new points event for the GameManager to catch (and other classes that may listen to it too)
 			CorgiEnginePointsEvent.Trigger(PointsMethods.Add, PointsToAdd);
+			contadormonedas++;
+            if (contadormonedas == 10)
+            {
+				GameManager.Instance.AddLives(1, false);
+				contadormonedas = 0;
+
+			}
 		}
+
+		
         
     }
 	

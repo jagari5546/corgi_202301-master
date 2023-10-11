@@ -451,6 +451,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -560,6 +565,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -1017,6 +1027,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -1853,6 +1868,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -1962,6 +1982,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -2511,6 +2536,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -2705,6 +2735,11 @@ PrefabInstance:
         type: 3}
       propertyPath: PointsToAdd
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}
@@ -2932,6 +2967,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moneda_100 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
       propertyPath: m_Enabled
@@ -3137,6 +3177,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -3247,6 +3292,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -3356,6 +3406,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -3550,6 +3605,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: moneda_100 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
@@ -3913,6 +3973,11 @@ PrefabInstance:
       propertyPath: PointsToAdd
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}
       propertyPath: m_RootOrder
@@ -4148,6 +4213,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moneda_100 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
       propertyPath: m_Enabled
@@ -4212,6 +4282,11 @@ PrefabInstance:
         type: 3}
       propertyPath: PointsToAdd
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}
@@ -4478,6 +4553,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -5620,6 +5700,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -6078,6 +6163,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moneda_100 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
       propertyPath: m_Enabled
@@ -6146,6 +6236,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -6261,6 +6356,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -6630,6 +6730,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -6810,6 +6915,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -7207,6 +7317,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moneda_100 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
       propertyPath: m_Enabled
@@ -7256,6 +7371,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -7391,6 +7511,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -7500,6 +7625,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -7702,6 +7832,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -7958,6 +8093,11 @@ PrefabInstance:
         type: 3}
       propertyPath: PointsToAdd
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}
@@ -8295,6 +8435,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -8495,6 +8640,11 @@ PrefabInstance:
         type: 3}
       propertyPath: PointsToAdd
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}
@@ -8931,6 +9081,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -9302,6 +9457,11 @@ PrefabInstance:
       propertyPath: PointsToAdd
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}
       propertyPath: m_RootOrder
@@ -9474,6 +9634,11 @@ PrefabInstance:
         type: 3}
       propertyPath: PointsToAdd
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}
@@ -9888,6 +10053,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -10374,6 +10544,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moneda_100
       objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
       propertyPath: m_Enabled
@@ -10614,6 +10789,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -10790,6 +10970,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moneda_100 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
       propertyPath: m_Enabled
@@ -10864,6 +11049,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -11186,6 +11376,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -11316,6 +11511,11 @@ PrefabInstance:
         type: 3}
       propertyPath: PointsToAdd
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}
@@ -11562,6 +11762,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -12288,6 +12493,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -12609,6 +12819,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moneda_100 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
       propertyPath: m_Enabled
@@ -12751,6 +12966,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -13177,6 +13397,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moneda_100 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
       propertyPath: m_Enabled
@@ -13239,6 +13464,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -13579,6 +13809,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -13929,6 +14164,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -14216,6 +14456,11 @@ PrefabInstance:
         type: 3}
       propertyPath: PointsToAdd
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}
@@ -14831,6 +15076,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moneda_100 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
       propertyPath: m_Enabled
@@ -14974,6 +15224,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -15746,6 +16001,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -15935,6 +16195,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -16612,6 +16877,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: moneda_100 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
@@ -17379,6 +17649,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: moneda_100 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
@@ -18545,6 +18820,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moneda_100 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
       propertyPath: m_Enabled
@@ -18805,6 +19085,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -18988,6 +19273,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moneda_100 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
       propertyPath: m_Enabled
@@ -19110,6 +19400,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: moneda_100 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2904033041580360331, guid: f66084fa6b39dcd449a40d1930f83d16,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3783937029682653263, guid: f66084fa6b39dcd449a40d1930f83d16,
         type: 3}
@@ -19269,6 +19564,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -19398,6 +19698,11 @@ PrefabInstance:
         type: 3}
       propertyPath: PointsToAdd
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}
@@ -19709,6 +20014,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -19989,6 +20299,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -73.57001
       objectReference: {fileID: 0}
+    - target: {fileID: 1281972465802289361, guid: ace2d4bf56f98df4196ff81845a465d7,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -1.37
+      objectReference: {fileID: 0}
     - target: {fileID: 3689102862917370803, guid: ace2d4bf56f98df4196ff81845a465d7,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -20175,6 +20490,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -20558,6 +20878,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -20696,6 +21021,11 @@ PrefabInstance:
       propertyPath: PointsToAdd
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}
       propertyPath: m_RootOrder
@@ -20809,6 +21139,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -21149,6 +21484,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -21539,6 +21879,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -21728,6 +22073,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 600026165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
@@ -22088,6 +22438,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -22297,6 +22652,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -22434,6 +22794,11 @@ PrefabInstance:
         type: 3}
       propertyPath: PointsToAdd
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}
@@ -30332,6 +30697,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 600026165
       objectReference: {fileID: 0}
+    - target: {fileID: 4181362574350296256, guid: b1e0882962a7c8b40bba67d90f2c0939,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5332297533986459472, guid: b1e0882962a7c8b40bba67d90f2c0939,
         type: 3}
       propertyPath: m_Name
@@ -30778,6 +31148,11 @@ PrefabInstance:
         type: 3}
       propertyPath: PointsToAdd
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156629347878219111, guid: 80fddac16a8f17648bb359d171caf2b1,
+        type: 3}
+      propertyPath: RespawnOnPlayerRespawn
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7784635240453041981, guid: 80fddac16a8f17648bb359d171caf2b1,
         type: 3}

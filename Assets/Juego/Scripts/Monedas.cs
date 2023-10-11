@@ -19,7 +19,7 @@ public class Monedas : MonoBehaviour, MMEventListener<PickableItemEvent>
     public virtual void OnMMEvent (PickableItemEvent item)
     {
         contador_monedas++;
-        if (contador_monedas == 3)
+        if (contador_monedas == 10)
         {
             Debug.Log(item);
             GameManager.Instance.GainLives(1);

@@ -112,6 +112,7 @@ namespace MoreMountains.CorgiEngine
 		{
 			PointsMethod = pointsMethod;
 			Points = points;
+			
 		}
         
 		static CorgiEnginePointsEvent e;

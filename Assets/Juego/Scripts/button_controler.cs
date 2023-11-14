@@ -6,9 +6,9 @@ using UnityEngine;
 
 public class button_controler : MonoBehaviour
 {
-   public void OnJugar()
+   public void OnLevelEasy1()
     {
-        MMSceneLoadingManager.LoadScene("Level_1");
+        MMSceneLoadingManager.LoadScene("LevelEasy1");
     }
 
     public void OnInstrucciones()
@@ -31,15 +31,34 @@ public class button_controler : MonoBehaviour
         MMSceneLoadingManager.LoadScene("you_lose");
     }
 
-   public void OnLevel2()
+   public void OnLevelEasy2()
+    {
+        MMSceneLoadingManager.LoadScene("LevelEasy2");
+    }
+    public void OnLevelMedium1()
+    {
+        MMSceneLoadingManager.LoadScene("LevelMedium1");
+    }
+    public void OnLevelMedium2()
+    {
+        MMSceneLoadingManager.LoadScene("LevelMedium2");
+    }
+    public void OnLevelHard1()
+    {
+        MMSceneLoadingManager.LoadScene("LevelHard1");
+    }
+    public void OnLevelHard2()
     {
         MMSceneLoadingManager.LoadScene("Level_2");
     }
-
-    public void OnLevel3()
+    public void OnLevelDificultad()
     {
-        MMSceneLoadingManager.LoadScene("Level_3");
+        MMSceneLoadingManager.LoadScene("Dificultad");
     }
+    
+
+
+
 
 
 

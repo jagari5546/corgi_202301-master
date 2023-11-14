@@ -181,7 +181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: INSTRUCCIONES
+  m_text: DIFICIL
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 377c27104b583b249ae2bdfbe50b8ede, type: 2}
   m_sharedMaterial: {fileID: 3800674802140404005, guid: 377c27104b583b249ae2bdfbe50b8ede,
@@ -316,7 +316,7 @@ GameObject:
   - component: {fileID: 191846069}
   - component: {fileID: 191846068}
   m_Layer: 5
-  m_Name: button_Creditos
+  m_Name: button_Volver
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -340,8 +340,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000024796, y: -448.11}
-  m_SizeDelta: {x: 622.15, y: 114.35}
+  m_AnchoredPosition: {x: 0, y: -450}
+  m_SizeDelta: {x: 440.58, y: 114.35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &191846068
 MonoBehaviour:
@@ -389,7 +389,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 171320542}
         m_TargetAssemblyTypeName: button_controler, Assembly-CSharp
-        m_MethodName: OnCreditos
+        m_MethodName: OnMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -580,7 +580,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: NUEVA PARTIDA
+  m_text: FACIL
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 377c27104b583b249ae2bdfbe50b8ede, type: 2}
   m_sharedMaterial: {fileID: 3800674802140404005, guid: 377c27104b583b249ae2bdfbe50b8ede,
@@ -775,7 +775,7 @@ GameObject:
   - component: {fileID: 538512349}
   - component: {fileID: 538512348}
   m_Layer: 5
-  m_Name: button_Continuar
+  m_Name: button_Medio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -799,8 +799,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000081062, y: -150}
-  m_SizeDelta: {x: 592.45, y: 114.35}
+  m_AnchoredPosition: {x: 0, y: -150}
+  m_SizeDelta: {x: 335.7, y: 114.35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &538512348
 MonoBehaviour:
@@ -848,7 +848,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 171320542}
         m_TargetAssemblyTypeName: button_controler, Assembly-CSharp
-        m_MethodName: OnJugar
+        m_MethodName: OnLevelMedium1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -985,7 +985,7 @@ GameObject:
   - component: {fileID: 840189065}
   - component: {fileID: 840189064}
   m_Layer: 5
-  m_Name: button_Jugar
+  m_Name: button_Facil
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1009,8 +1009,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000103, y: 0.00024462}
-  m_SizeDelta: {x: 766.56, y: 114.35}
+  m_AnchoredPosition: {x: 0, y: 0.00024462}
+  m_SizeDelta: {x: 328.58, y: 114.35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &840189064
 MonoBehaviour:
@@ -1058,7 +1058,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 171320542}
         m_TargetAssemblyTypeName: button_controler, Assembly-CSharp
-        m_MethodName: OnLevelDificultad
+        m_MethodName: OnLevelEasy1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1164,7 +1164,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: CONTINUAR
+  m_text: MEDIO
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 377c27104b583b249ae2bdfbe50b8ede, type: 2}
   m_sharedMaterial: {fileID: 3800674802140404005, guid: 377c27104b583b249ae2bdfbe50b8ede,
@@ -1255,7 +1255,7 @@ GameObject:
   - component: {fileID: 1301969489}
   - component: {fileID: 1301969488}
   m_Layer: 5
-  m_Name: button_Instrucciones
+  m_Name: button_Dificil
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1279,8 +1279,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000015259, y: -300}
-  m_SizeDelta: {x: 811.04, y: 114.35}
+  m_AnchoredPosition: {x: 0, y: -300}
+  m_SizeDelta: {x: 375.57, y: 114.35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1301969488
 MonoBehaviour:
@@ -1328,7 +1328,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 171320542}
         m_TargetAssemblyTypeName: button_controler, Assembly-CSharp
-        m_MethodName: OnInstrucciones
+        m_MethodName: OnLevelHard1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1535,7 +1535,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Cr\xE9ditos\n"
+  m_text: VOLVER
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 377c27104b583b249ae2bdfbe50b8ede, type: 2}
   m_sharedMaterial: {fileID: 3800674802140404005, guid: 377c27104b583b249ae2bdfbe50b8ede,

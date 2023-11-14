@@ -225,21 +225,36 @@ EditorBuildSettings:
     path: Assets/Juego/Scenes/Home/Home.unity
     guid: c71736e612789c7469ab92e72217dd81
   - enabled: 1
-    path: Assets/Juego/Scenes/Credits/Creditos.unity
+    path: Assets/Juego/Scenes/Dificultad/Dificultad.unity
+    guid: 9261dedc6c3886249a9be30e74e8d744
+  - enabled: 1
+    path: Assets/Juego/Scenes/OtrasEscenas/Credits/Creditos.unity
     guid: 645e6d200942a464db12da974f9d01b1
   - enabled: 1
-    path: Assets/Juego/Scenes/Instructions/Instrucciones.unity
+    path: Assets/Juego/Scenes/OtrasEscenas/Instructions/Instrucciones.unity
     guid: 38b5d1dbb3e232046b96949c305a4fb0
   - enabled: 1
-    path: Assets/Juego/Scenes/Level 1/Level_1.unity
-    guid: b5dafbb7f5956d94ba41cd169cc39435
-  - enabled: 1
-    path: Assets/Juego/Scenes/you_lose/you_lose.unity
+    path: Assets/Juego/Scenes/OtrasEscenas/you_lose/you_lose.unity
     guid: d8aba5688f1d3524cb239c169c51e124
   - enabled: 1
-    path: Assets/Juego/Scenes/Level 2/Level_2.unity
+    path: Assets/Juego/Scenes/Facil/Level 1/LevelEasy1.unity
+    guid: b5dafbb7f5956d94ba41cd169cc39435
+  - enabled: 1
+    path: Assets/Juego/Scenes/Facil/Level 2/LevelEasy2.unity
     guid: 0eee9400c42fc944eb217c21f73bb2d2
   - enabled: 1
-    path: Assets/Juego/Scenes/Level 3/Level_3.unity
+    path: Assets/Juego/Scenes/Medio/Level 1/LevelMedium1.unity
+    guid: 83c579c4907d2154287803a5109e14ce
+  - enabled: 1
+    path: Assets/Juego/Scenes/Medio/Level 2/LevelMedium2.unity
+    guid: c80455a7d7411c642aa730d34def88e8
+  - enabled: 1
+    path: Assets/Juego/Scenes/Dificil/Level 1/LevelHard1.unity
+    guid: d160d6a1cb668314c821c302d38c5ed5
+  - enabled: 1
+    path: Assets/Juego/Scenes/Dificil/Level 2/LevelHard2.unity
+    guid: 8849de748df631844847154681eb243a
+  - enabled: 0
+    path: Assets/Juego/Scenes/Facil/Level 3/Level_3.unity
     guid: 9fb98a4fe20e9c24e8df1cd313c49e0a
   m_configObjects: {}

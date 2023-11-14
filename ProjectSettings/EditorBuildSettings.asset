@@ -254,6 +254,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Juego/Scenes/Dificil/Level 2/LevelHard2.unity
     guid: 441f187ba7d752648af2fa0f0d6569bf
+  - enabled: 1
+    path: Assets/Juego/Scenes/Jefe Final/JefeFinal.unity
+    guid: f862d3dba78011e488106e7fe30a0be3
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000

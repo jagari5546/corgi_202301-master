@@ -5881,9 +5881,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 384673172}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -7222,9 +7222,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 452751062}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -7593,9 +7593,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 471965285}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -8088,9 +8088,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 254294179}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -8573,9 +8573,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 197362962}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -8592,9 +8592,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 199063812}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -9140,9 +9140,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 621534804}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -9159,9 +9159,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 143146569}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -9178,9 +9178,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 449057226}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -9339,9 +9339,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 648882967}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -10169,9 +10169,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 389221972}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -10645,9 +10645,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 42096680}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -11442,9 +11442,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 940882428}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -11813,9 +11813,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 968576887}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -13031,9 +13031,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1080820323}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -13442,9 +13442,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 412287073}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -13748,9 +13748,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 485644732}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -13974,7 +13974,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11403552, guid: 26f6a44a9b2f9d44fb51e4d8847a8a00, type: 3}
       propertyPath: LevelName
-      value: Level_2
+      value: LevelMedium2
       objectReference: {fileID: 0}
     - target: {fileID: 11403552, guid: 26f6a44a9b2f9d44fb51e4d8847a8a00, type: 3}
       propertyPath: AutoActivation
@@ -14997,9 +14997,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 174388289}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -15358,9 +15358,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 851006359}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -15529,9 +15529,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1299782121}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -17151,9 +17151,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1498925508}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -17534,9 +17534,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1539874872}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -17778,9 +17778,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1600029953}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -17961,9 +17961,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 110394143}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -18110,9 +18110,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1633734155}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -18964,9 +18964,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 210812670}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -19166,9 +19166,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1700293276}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -19315,9 +19315,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1701890560}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -19470,9 +19470,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1717638065}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -19501,9 +19501,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1424631774}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -19520,9 +19520,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1054563851}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -19906,9 +19906,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1778545235}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -20414,9 +20414,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1846661474}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -20922,9 +20922,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 522504654}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -21166,9 +21166,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1668773539}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -28580,9 +28580,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1965091711}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -28599,9 +28599,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 510330819}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -28963,9 +28963,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2015998839}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -29053,9 +29053,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 245827610}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -29147,9 +29147,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 20963414}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -29342,9 +29342,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1847045888}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -29691,9 +29691,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 157302186}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -29773,9 +29773,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1264183755}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -29792,9 +29792,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 456301306}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f840a9ddcd80edc4cabf6d198488ba3b, type: 3}
+  m_Script: {fileID: 11500000, guid: 952b64e8deb2c574ba33f53b58c1a6f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   contador_monedas: 0
@@ -30095,6 +30095,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708490722156847815, guid: e3ba438636ad98e429a0a518360c00f8,
+        type: 3}
+      propertyPath: PathElements.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708490722156847815, guid: e3ba438636ad98e429a0a518360c00f8,
+        type: 3}
+      propertyPath: PathElements.Array.data[1].PathElementPosition.x
+      value: 15.30856
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708490722156847815, guid: e3ba438636ad98e429a0a518360c00f8,
+        type: 3}
+      propertyPath: PathElements.Array.data[1].PathElementPosition.y
+      value: 0.008100033
+      objectReference: {fileID: 0}
+    - target: {fileID: 4708490722156847815, guid: e3ba438636ad98e429a0a518360c00f8,
+        type: 3}
+      propertyPath: PathElements.Array.data[1].PathElementPosition.z
+      value: -0.0014343262
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3ba438636ad98e429a0a518360c00f8, type: 3}

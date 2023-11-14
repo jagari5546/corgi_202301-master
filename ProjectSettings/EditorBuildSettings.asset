@@ -247,13 +247,22 @@ EditorBuildSettings:
     guid: 83c579c4907d2154287803a5109e14ce
   - enabled: 1
     path: Assets/Juego/Scenes/Medio/Level 2/LevelMedium2.unity
-    guid: c80455a7d7411c642aa730d34def88e8
+    guid: ac448c773c368d3478146ec80a0deb86
   - enabled: 1
     path: Assets/Juego/Scenes/Dificil/Level 1/LevelHard1.unity
-    guid: d160d6a1cb668314c821c302d38c5ed5
+    guid: 28e4d414d5e4d31419c5d54ff781c1bd
   - enabled: 1
     path: Assets/Juego/Scenes/Dificil/Level 2/LevelHard2.unity
-    guid: 8849de748df631844847154681eb243a
+    guid: 441f187ba7d752648af2fa0f0d6569bf
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/Juego/Scenes/Facil/Level 3/Level_3.unity
     guid: 9fb98a4fe20e9c24e8df1cd313c49e0a

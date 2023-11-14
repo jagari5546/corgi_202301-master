@@ -151,7 +151,15 @@ MonoBehaviour:
   PathElements:
   - PathElementPosition: {x: -0.0036019385, y: 0.026615143, z: 0}
     Delay: 0
-  - PathElementPosition: {x: 11.564618, y: 0.021556377, z: 0}
+  - PathElementPosition: {x: -0.050655365, y: 13.395894, z: -0.00061035156}
+    Delay: 0
+  - PathElementPosition: {x: -5.411045, y: 13.484739, z: -0.00061035156}
+    Delay: 0
+  - PathElementPosition: {x: -5.3518105, y: 25.627054, z: -0.00061035156}
+    Delay: 0
+  - PathElementPosition: {x: 2.2001152, y: 25.7159, z: -0.00061035156}
+    Delay: 0
+  - PathElementPosition: {x: 2.170639, y: 31.608568, z: -0.00061035156}
     Delay: 0
   AlignmentMode: 0
   MovementSpeed: 1

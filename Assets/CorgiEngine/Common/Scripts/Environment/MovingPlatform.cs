@@ -2,9 +2,11 @@
 using System.Collections;
 using MoreMountains.Tools;
 using MoreMountains.Feedbacks;
+using System.Runtime.CompilerServices;
 
 namespace MoreMountains.CorgiEngine
 {
+	
 	/// <summary>
 	/// Add this component to a platform and it'll be able to follow a path and carry a character
 	/// </summary>
@@ -288,5 +290,6 @@ namespace MoreMountains.CorgiEngine
 		{
 			this.MMEventStopListening<CorgiEngineEvent>();
 		}
+				
 	}
 }

@@ -17,8 +17,7 @@ public class Jefe : MonoBehaviour
 
     [Header("Vida")]
 
-    [SerializeField] private float vida;
-
+    [SerializeField] private Health health;
     [SerializeField] private BarraDeVida barraDeVida;
 
     [Header("Ataque")]
@@ -31,7 +30,7 @@ public class Jefe : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rb2D = GetComponent<Rigidbody2D>();
-        barraDeVida.InicializarBarraDeVida(vida);
+        barraDeVida.InicializarBarraDeVida();
         jugador = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
     }
 
@@ -43,9 +42,10 @@ public class Jefe : MonoBehaviour
 
     public void TomarDaño(float daño)
     {
+        float vida = health.CurrentHealth;
         vida -= daño;
 
-        barraDeVida.CambiarVidaActual(vida);
+        barraDeVida.CambiarVidaActual();
 
         if (vida <= 0)
         {
@@ -68,24 +68,24 @@ public class Jefe : MonoBehaviour
         }
     }
 
-    //public void Ataque()
-    //{
-       // Collider2D[] objetos = Physics2D.OverlapCircleAll(controladorAtaque.position, radioAtaque);
+    public void Ataque()
+    {
+        Collider2D[] objetos = Physics2D.OverlapCircleAll(controladorAtaque.position, radioAtaque);
 
-       // foreach (Collider2D colision in objetos)
-       // {
-         //   if (colision.CompareTag("Player"))
-         //   {
-                //colision.GetComponent<CombateJugaador>().TomarDaño(dañoAtaque));
-          //  }
-      //  }
-  //  }
+        foreach (Collider2D colision in objetos)
+        {
+            if (colision.CompareTag("Player"))
+            {
+                colision.GetComponent<CombtJugador>().TomarDaño(dañoAtaque);
+            }
+        }
+    }
 
-   // private void OnDrawGizmos()
-   // {
-   //     Gizmos.color = Color.red;
-   //     Gizmos.DrawWireSphere(controladorAtaque.position, radioAtaque);
-   // }
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(controladorAtaque.position, radioAtaque);
+    }
 
 
 

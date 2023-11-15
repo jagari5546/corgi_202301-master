@@ -1,3 +1,4 @@
+using MoreMountains.CorgiEngine;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,6 +6,9 @@ using UnityEngine.UI;
 
 public class BarraDeVida : MonoBehaviour
 {
+    [SerializeField] Health health;
+
+
     private Slider slider;
 
     private void Start()
@@ -12,21 +16,24 @@ public class BarraDeVida : MonoBehaviour
         slider = GetComponent<Slider>();
     }
 
-    public void CambiarVidaMaxima(float vidaMaxima)
+    public void CambiarVidaMaxima()
     {
+        float vidaMaxima = health.MaximumHealth;
         slider.maxValue = vidaMaxima;
     }
 
-    public void CambiarVidaActual(float cantidadVida)
+    public void CambiarVidaActual()
     {
+        float cantidadVida = health.CurrentHealth;
         slider.value = cantidadVida;
     }
 
-    public void InicializarBarraDeVida(float cantidadVida)
+    public void InicializarBarraDeVida()
     {
-        CambiarVidaMaxima(cantidadVida);
-        CambiarVidaActual(cantidadVida);
+        CambiarVidaMaxima();
+        CambiarVidaActual();
 
     }
+    
 
 }
